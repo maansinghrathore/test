@@ -1,3 +1,3 @@
 <?php
-	echo "sfsF checkout";
+	echo "succcesfulL checkout";
 ?>
